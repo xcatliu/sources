@@ -1,0 +1,15 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "redux/examples/async/package.json",
+        "redux/examples/counter/package.json",
+        "redux/examples/real-world/package.json",
+        "redux/examples/todomvc/package.json",
+        "redux/examples/todos-with-undo/package.json",
+        "redux/examples/universal/package.json",
+        "redux/package.json"
+      ]
+    }
+  }
+}
